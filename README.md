@@ -38,6 +38,8 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
 <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
+<a href="https://tinkerpop.apache.org/gremlin.html" target="_blank"><img style="margin: 10px" src="https://tinkerpop.apache.org/img/gremlin/about-gremlin.png" alt="Gremlin" height="50" /></a>
+<a href="https://neo4j.com/" target="_blank"><img stype="margin: 10px" src="https://dist.neo4j.com/wp-content/uploads/20230926084108/Logo_FullColor_RGB_TransBG.svg" alt="Neo4j" height="50" /></a>
 </div>
 
 </td></tr></table>
